@@ -1,0 +1,3 @@
+admin;admin;admin@admin.admin;010203010;admin12
+userF;userL;user@user.user;010405030202;user user<eol>user
+totoF;totoL;toto@toto.toto;1020301050;toto<eol>toto<eol>otot
